@@ -27,8 +27,18 @@ I tried to provde sufficient documentation to start to assist.
 The final project redacts some uneccesary config code , and should provide a more 
 stable environment for DRY principles , and overall easability. 
 
---- Edit as  needed , just give me my credit please and thank you. 
+--- Edit as  needed , just give me my credit_ please and thank you. 
+____________________________________________________________________________________
+___________________Videos ______________________________________
+________________________________________________________________
 
+Broken trying to run  - 
+
+![GRADLE-WRAPPER-BUILD-breaking-BUG](https://github.com/user-attachments/assets/a274c6f2-43da-498a-963a-f98be6508deb)
+
+This working repo , running a good  consistent build. _______
+
+![GRADLE-BUILD-FIX](https://github.com/user-attachments/assets/30b8db29-b3d4-44b8-b835-a714f90e56e4)
 
 
 
