@@ -1,8 +1,0 @@
-{
-  "BlockNumberDec": {
-    "title": "blockNumberDec",
-    "type": "string",
-    "description": "The decimal representation of the block's height",
-    "$ref": "#/components/schemas/IntegerDec"
-  }
-}

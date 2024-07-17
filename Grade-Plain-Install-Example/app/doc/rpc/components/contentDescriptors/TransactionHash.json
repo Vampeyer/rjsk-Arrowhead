@@ -1,9 +1,0 @@
-{
-  "TransactionHash": {
-    "name": "transactionHash",
-    "required": true,
-    "schema": {
-      "$ref": "#/components/schemas/TransactionHash"
-    }
-  }
-}

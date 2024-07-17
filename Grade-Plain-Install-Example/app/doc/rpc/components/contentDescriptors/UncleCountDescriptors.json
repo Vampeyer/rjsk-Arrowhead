@@ -1,9 +1,0 @@
-{
-  "UncleCountResult": {
-    "name": "uncleCountResult",
-    "description": "The Number of total uncles in the given block",
-    "schema": {
-      "$ref": "#/components/schemas/IntegerOrNull"
-    }
-  }
-}

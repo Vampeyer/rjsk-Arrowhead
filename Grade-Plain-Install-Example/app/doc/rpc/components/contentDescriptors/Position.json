@@ -1,9 +1,0 @@
-{
-  "Position": {
-    "name": "key",
-    "required": true,
-    "schema": {
-      "$ref": "#/components/schemas/Position"
-    }
-  }
-}
