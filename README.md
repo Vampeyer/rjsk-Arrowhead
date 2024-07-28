@@ -41,7 +41,7 @@ This working repo , running a good  consistent build. _______
 ![GRADLE-BUILD-FIX](https://github.com/user-attachments/assets/30b8db29-b3d4-44b8-b835-a714f90e56e4)
 
 
-
+--- And I think the .bat file works as well on windows. 
 
 
 
